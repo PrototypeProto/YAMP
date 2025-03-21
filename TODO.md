@@ -30,3 +30,8 @@ Auto resize is a WIP, seems static at the moment
 
 # Future Features
 Tools to better create + Organize albums (smart tools) with safety to prevent mass destruction
+
+
+# GUI update
+Probably will create another column container to just have the abulums, songs and playlists mostly static.
+then under album now playing is a dynamic canvas that updates based on which button is pressed
